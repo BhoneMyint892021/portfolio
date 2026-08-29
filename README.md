@@ -10,7 +10,7 @@ I'm a student at Stamford International University studying across database syst
 
 ## Featured projects
 
-- **Smart Dustbin** — a touchless, IoT-connected waste bin built with an ESP32, ultrasonic and IR sensors, and a servo motor. Team project (4 members); my part was the Blynk setup — dashboard, datastreams, and the fill-level notification system. [Demo video](https://youtube.com/shorts/Y0V8Ud9-Y8s?feature=share)
+- **Smart Dustbin** — a touchless, IoT-connected waste bin built with an ESP32, ultrasonic and IR sensors, and a servo motor. Team project (4 members); my part was the Blynk setup — dashboard, datastreams, and the fill-level notification system.
 - **Database final exam practical** — designing Purchase/Customer/Product tables with primary and foreign keys, and writing GROUP BY and conditional categorization queries.
 - **Java console applications** (ITE221) — programs covering variables, type casting, parsing, and formatted output, including a shopping receipt calculator.
 - **Selenium test suite** — an 8-test-case Python/unittest suite covering login, logout, checkboxes, dropdowns, dynamic content loading, and navigation on the-internet.herokuapp.com, plus a second suite for automationexercise.com.
